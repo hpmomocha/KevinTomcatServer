@@ -1,0 +1,1 @@
+1. 从请求的Header取得Cookie，然后从Cookie中取得JSesso
